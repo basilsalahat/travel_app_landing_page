@@ -13,7 +13,7 @@ Other colors is `#FFC91E` and `#BE0000`.
 **You can check the design file [/fig_design.fig](fig_design.fig).
 
 ## Screenshots
-[Light mode](screenshots/Style1.jpg)
+[Light mode](screenshots/Style 1.jpg)
 <br/>
 [Dark mode](screenshots/Style2.jpg)
 <br/>
